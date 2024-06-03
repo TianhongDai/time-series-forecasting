@@ -50,6 +50,6 @@ All trained checkpoints and visualization plots are saved in [Google Drive](http
 ### Informer
 ![](assets/informer_feat.svg)
 ![](assets/informer_ot.svg)
-### Informer
+### iTransformer
 ![](assets/itransformer_feat.svg)
 ![](assets/itransformer_ot.svg)
