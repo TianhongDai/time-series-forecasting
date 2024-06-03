@@ -44,7 +44,7 @@ python visualization.py --results_path <path-to-save-npy>
 ```
 
 ## Results
-All trained checkpoints and visualization plots are saved in [Google Drive](https://drive.google.com/drive/folders/17BPktVHzoxET37LQ5zFpC1WMcvauCnK4?usp=sharing).
+Part-2 of this project is included in `analysis.ipynb`. All trained checkpoints and visualization plots are saved in [Google Drive](https://drive.google.com/drive/folders/17BPktVHzoxET37LQ5zFpC1WMcvauCnK4?usp=sharing).
 
 ## Visualization
 ### Informer
