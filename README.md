@@ -53,3 +53,7 @@ Part-2 of this project is included in `analysis.ipynb`. All trained checkpoints 
 ### iTransformer
 ![](assets/itransformer_feat.svg)
 ![](assets/itransformer_ot.svg)
+
+## Acknowledgements
+- [Informer Official Code](https://github.com/zhouhaoyi/Informer2020)
+- [iTransformer Official Code](https://github.com/thuml/iTransformer)
