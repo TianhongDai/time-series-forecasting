@@ -1,5 +1,5 @@
-# Time Series Forcasting
-This code utilizes two transformer-based model for the long sequence time series data forcasting tasks:
+# Time Series Forecasting
+This code utilizes two transformer-based model for the long sequence time series data forecasting tasks:
 - Informer: *"Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting"* (AAAI-2021 Best Paper)
 - iTransformer: *"iTransformer: Inverted Transformers Are Effective for Time Series Forecasting"* (ICLR-2024)
 
@@ -44,7 +44,7 @@ python visualization.py --results_path <path-to-save-npy>
 ```
 
 ## Results
-All trained checkpoints and visualization plots are saved in [Google Drive]().
+All trained checkpoints and visualization plots are saved in [Google Drive](https://drive.google.com/drive/folders/17BPktVHzoxET37LQ5zFpC1WMcvauCnK4?usp=sharing).
 
 ## Visualization
 ### Informer
